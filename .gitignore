@@ -1,0 +1,18 @@
+# Node / Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/dist-ssr/
+frontend/*.local
+
+# Laravel / Backend
+backend/vendor/
+backend/node_modules/
+backend/public/build/
+backend/.env
+backend/storage/*.key
+backend/storage/debugbar/
+
+# General OS
+.DS_Store
+Thumbs.db
+*.log
